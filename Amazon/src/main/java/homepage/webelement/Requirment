@@ -1,0 +1,53 @@
+ /**
+     * Given we are in Amazon Homepage
+     * Enter mobile in searchbox
+     * click on the searchbox
+     * validate the searchResult
+     */
+
+    /**
+     *  Given we are in Amazon Homepage
+     *  Enter mobile in searchbox
+     *  click on the searchbox
+     *  validate the searchResult
+     * Nevigate Back to Homepage
+     * Enter T-Shirt On SearchField
+     * Click on SearchButton
+     * Validate the searchResult
+     * Navigate Back to Homepage
+     * Enter Valentine Gift On SearchField
+     * Click on SearchButton
+     * Validate the searchResult
+     * Navigate Back to Homepage
+     *
+     */
+
+    /**
+     * Given we are in Amazon Homepage
+     * Mouse hover in Hello SignIn & Account List
+     * Click on SignIn
+     * Enter Email (phone for mobile account) in WebEdit Field
+     * Click on Continue Button
+     * Enter password in Password Field
+     * Keep me signed in
+     * Click on SignIn Button
+     * Validate "There was a problem" and "Your password is incorrect"
+     */
+
+    /**
+     * Given We are in Amazon HomePage
+     * Click on toggle menu button
+     * Cont and display number of items under shop By category
+     * Validate Fire TV is Exist.
+     */
+
+    /**
+     * Given we are in Amazon homepage
+     * Click on Shop all Valentine's day Gift Link which is displayed at Bottom of the Homepagrs
+     * Click on Next items and Click Teddy bear -Big Bear -6 feet
+     * Click 6 feet Beer
+     * Click two in quantity
+     * Click on Add to Cart
+     * Proceed to checkout
+     * Click on SignIn
+     */
